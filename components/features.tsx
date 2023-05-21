@@ -69,7 +69,7 @@ export default function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Spyd3r W3b analytics</div>
-                    <div className="text-gray-600">Advance your Dapp performance with both onchain and offchain activity analytics. Make best use AI driven engagement analysis and stratergies</div>
+                    <div className="text-gray-600">Advance your Dapp performance with both onchain and offchain activity analytics.Enabling you to best understand your userbase. Make best use AI driven engagement analysis and stratergies</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -83,8 +83,8 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(3); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Building the Simple ecosystem</div>
-                    <div className="text-gray-600">Take collaboration to the next level with security and administrative features built for teams.</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Spyd3r W3b Engagement</div>
+                    <div className="text-gray-600">Keep the flame alive, Engage and notifiy your audience about the changes that happen in your protocol.Allow users to be notified about their transactions on your platform. Utilize AI powered content curation engine for your Socials </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
