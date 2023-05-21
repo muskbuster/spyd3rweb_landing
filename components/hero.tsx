@@ -22,13 +22,13 @@ export default function Hero() {
         </svg>
       </div>
 
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6">
 
         {/* Hero content */}
-        <div className="pt-32 pb-12 md:pt-40 md:pb-20">
+        <div className="pt-50 pb-30 md:pt-40 md:pb-20">
 
           {/* Section header */}
-          <div className="text-center pb-12 md:pb-16">
+          <div className="text-center pb-14 md:pb-16">
             <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Introducing <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">Spyd3r W3b</span></h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Empowering your web3 journey with robust security, insightful analytics, and captivating engagement, ensuring a protected and immersive digital experience</p>
@@ -46,7 +46,7 @@ export default function Hero() {
             thumbWidth={768}
             thumbHeight={432}
             thumbAlt="Modal video thumbnail"
-            video="/videos/video.mp4"
+            video="/videos/SPYD3R W3B - Security POC (2).mp4"
             videoWidth={1920}
             videoHeight={1080} />
 
