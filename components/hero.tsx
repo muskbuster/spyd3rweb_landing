@@ -31,7 +31,7 @@ export default function Hero() {
           <div className="text-center pb-14 md:pb-16">
             <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Introducing <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">Spyd3r W3b</span></h1>
             <div className="max-w-3xl mx-auto">
-              <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Empowering your web3 journey with robust security, insightful analytics, and captivating engagement, ensuring a protected and immersive digital experience</p>
+              <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Empowering your web3 journey with robust security, insightful analytics, and unparallel software development workflow for your Dapps</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
               
                 <div>

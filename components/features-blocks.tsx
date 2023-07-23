@@ -31,7 +31,7 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Spyd3r W3b Huntsman</h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Spyd3r W3b monitoring and alerts</h4>
               <p className="text-gray-600 text-center">Use our onchain monitoring and automated threat mitigation tool to detect diagnose and take countermeasures automatically and broadcast alerts in various platforms.</p>
             </div>
 
@@ -51,7 +51,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Spyd3r W3b analytics</h4>
-              <p className="text-gray-600 text-center">Advance your Dapp with our onchain and web interaction insights.Continuous dapp performance monitoring and AI driven improvement stratergies</p>
+              <p className="text-gray-600 text-center">Advance your Dapp with our onchain and web interaction insights.Continuous dapp performance monitoring and AI driven improvement stratergies.Understand the sentiments of users toward your product </p>
             </div>
 
            
@@ -67,8 +67,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Spyd3r W3b Sandbox</h4>
+              <p className="text-gray-600 text-center">Create a controlled and secure collaborative develpoment environment out of the box for wide range of Dapps,Deploy,maintain and operarte from one place</p>
             </div>
 
           </div>
