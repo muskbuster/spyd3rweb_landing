@@ -35,7 +35,7 @@ export default function Hero() {
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
               
                 <div>
-                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Learn more</a>
+                <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://hackmd.io/@shreyaspadmakiran/HJPqetRK3" target="_blank">Learn more</a>
                 </div>
               </div>
             </div>

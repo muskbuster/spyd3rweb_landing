@@ -4,6 +4,8 @@ import { useState, useRef, useEffect } from 'react'
 import { Transition } from '@headlessui/react'
 import Image from 'next/image'
 import FeaturesBg from '@/public/images/features-bg.png'
+import FeaturesBg2 from 'components/feat_anal.png'
+import FeaturesBg3 from 'components/feat_dev.png'
 import FeaturesElement from '@/public/images/features-element.png'
 
 export default function Features() {
@@ -111,8 +113,7 @@ export default function Features() {
                   leaveTo="opacity-0 -translate-y-16"
                 >
                   <div className="relative inline-flex flex-col">
-                    <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg} width={500} height="462" alt="Features bg" />
-                    <Image className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width={500} height="44" alt="Element" style={{ top: '30%' }} />
+                  <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg3} width={500} height="462" alt="Features bg" />
                   </div>
                 </Transition>
                 {/* Item 2 */}
@@ -128,8 +129,8 @@ export default function Features() {
                   leaveTo="opacity-0 -translate-y-16"
                 >
                   <div className="relative inline-flex flex-col">
-                    <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg} width={500} height="462" alt="Features bg" />
-                    <Image className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width={500} height="44" alt="Element" style={{ top: '30%' }} />
+                    <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg2} width={500} height="462" alt="Features bg" />
+
                   </div>
                 </Transition>
                 {/* Item 3 */}
@@ -145,6 +146,7 @@ export default function Features() {
                   leaveTo="opacity-0 -translate-y-16"
                 >
                   <div className="relative inline-flex flex-col">
+                   
                     <Image className="md:max-w-none mx-auto rounded" src={FeaturesBg} width={500} height="462" alt="Features bg" />
                     <Image className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width={500} height="44" alt="Element" style={{ top: '30%' }} />
                   </div>
