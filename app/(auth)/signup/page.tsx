@@ -5,7 +5,12 @@ export const metadata = {
   description: 'Page description',
 };
 
-function EmailLink({ email, text }) {
+interface EmailLinkProps {
+  email: string;
+  text: string;
+}
+
+function EmailLink({ email, text }: EmailLinkProps) {
   return (
     <a
       href={`mailto:${email}`}
