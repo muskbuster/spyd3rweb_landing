@@ -40,15 +40,7 @@ export default function Hero() {
               </div>
             </div>
           </div>
-          {/* Hero image */}
-          <ModalVideo
-            thumb={VideoThumb}
-            thumbWidth={768}
-            thumbHeight={432}
-            thumbAlt="Modal video thumbnail"
-            video="/videos/SPYD3R W3B - Security POC (2).mp4"
-            videoWidth={1920}
-            videoHeight={1080} />
+
 
         </div>
 

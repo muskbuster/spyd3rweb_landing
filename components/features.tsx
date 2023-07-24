@@ -1,5 +1,6 @@
 'use client'
-
+import VideoThumb from '@/public/images/hero-image.png'
+import ModalVideo from '@/components/modal-video'
 import { useState, useRef, useEffect } from 'react'
 import { Transition } from '@headlessui/react'
 import Image from 'next/image'
@@ -157,6 +158,15 @@ export default function Features() {
           </div>
 
         </div>
+                  {/* Hero image */}
+                  <ModalVideo
+            thumb={VideoThumb}
+            thumbWidth={768}
+            thumbHeight={432}
+            thumbAlt="Modal video thumbnail"
+            video="/videos/SPYD3R W3B - Security POC (2).mp4"
+            videoWidth={1920}
+            videoHeight={1080} />
       </div>
     </section>
   )
