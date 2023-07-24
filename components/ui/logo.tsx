@@ -9,10 +9,14 @@ export default function Logo() {
             <stop stopColor="#4FD1C5" offset="0%" />
             <stop stopColor="#81E6D9" offset="25.871%" />
             <stop stopColor="#338CF5" offset="100%" />
+           
           </radialGradient>
+         
         </defs>
+        
         <rect width="32" height="32" rx="16" fill="url(#footer-logo)" fillRule="nonzero" />
       </svg>
+      
     </Link>
   )
 }
