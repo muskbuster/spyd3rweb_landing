@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Sign Up - Simple',
+  title: 'Contact us',
   description: 'Page description',
 };
 
