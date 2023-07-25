@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export const metadata = {
   title: 'Contact us',
-  description: 'Page description',
+  description: 'Info',
 };
 
 interface EmailLinkProps {

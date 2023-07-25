@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Spyd3r W3b Home',
-  description: 'Page description',
+  description: 'The Blockchain DevSecOps Tool',
 }
 
 import Hero from '@/components/hero'
